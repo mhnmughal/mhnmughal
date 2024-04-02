@@ -19,8 +19,8 @@ I'm a Java developer with a strong foundation and hands-on experience building:
 * **Monster Hunter:** 3D single-player platformer game (Unity, C#)  [Check it out!]([link to project repo])
 * **Retail Inventory Management:** Java Swing application for streamlining store operations [See the code]([link to repo])
 * **E-commerce Website:**  Full-stack platform with backend functionality (HTML, CSS, JSP, Servlet, MySQL, JUnit Testing) [Explore]([link to repo])
-* **Movie Rental System:** CLI-based application for managing movie rentals (Java) [Check it out!] (https://github.com/mhnmughal/Movie-Rental-Application) 
-* **... and more on my GitHub!** [Explore] ([https://github.com/](https://github.com/mhnmughal)[your-github-username]) 
+* **Movie Rental System:** CLI-based application for managing movie rentals (Java) [Check it out!](https://github.com/mhnmughal/Movie-Rental-Application) 
+* **... and more on my GitHub!** [Explore](https://github.com/mhnmughal) 
 
 **🌱 Currently Learning:** 
 * Diving deeper into Spring Boot for robust web application development
