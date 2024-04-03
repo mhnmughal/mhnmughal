@@ -11,7 +11,7 @@ I'm a Java developer with a strong foundation and hands-on experience building:
 **💻 Skills at a Glance:**
 
 * **Languages:** Java, C++, C#, Python, C
-* **Frameworks & Tools:** Java Swing, JavaFX, Spring Boot, Unity, MySQL, JUnit 
+* **Frameworks & Tools:** Java Swing, JavaFX, Spring Boot, Unity, MySQL, JUnit, OpenGL 
 * **Concepts:** Object-Oriented Programming, Data Structures, Web Development, Game Design Basics
 
 **🚀 Projects I'm Proud Of:**
